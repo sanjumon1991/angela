@@ -1,0 +1,168 @@
+body{
+  margin : 0;
+    text-align : center;
+
+}
+
+.pyrervy{
+  text-align : center;
+  position : relative;
+  background-color : #EAf6f6;
+  text-align : center;
+  font-family: monospace;
+  color : #06BFBF;
+}
+
+.topcloud{
+  position : absolute;
+  top : 25px;
+  right : 100px;
+}
+
+
+.bottomcloud{
+  position : absolute;
+  bottom : 300px;
+  left : 50px;
+}
+
+.hrsf{
+   font-family : 'Sacramento', cursive;
+   padding-top : 100px;
+ }
+
+.pro{
+  text-decoration : underline;
+}
+
+.oftroi{
+  padding-top : 100px;
+}
+
+h2{
+  font-family : sans-serif;
+  color : #66bfbf;
+}
+
+h3{
+  font-family : sans-serif;
+  color : #66bfbf;
+}
+
+
+
+.oftroip{
+  display : inline-block;
+  width : 400px;
+  margin-left : auto;
+  margin-right : auto;
+  margin-bottom : 50px;
+  font-weight : 700;
+
+}
+
+/*hr{
+color : #eaf6f6;
+height : 0;
+border-top : 10px dotted;
+width : 30%;
+
+}*/
+hr{
+  border-color : grey;
+  border-width : 10px;
+  border-top-style : dotted;
+  border-bottom-style : none;
+  border-left-style : none;
+  border-right-style : none;
+
+
+  width : 30%;
+}
+
+.treyti{
+  font-weight : 700;
+  padding-bottom : 50px;
+}
+
+#trh2{
+  padding-top : 50px;
+  padding-bottom : 50px;
+}
+
+.tre1{
+  text-align : left;
+  font-weight : normal;
+  padding-top : 50px;
+  padding-bottom : 50px;
+  width : 600px;
+  margin-left : auto;
+  margin-right : auto;
+}
+
+ .treco{
+
+  float : left;
+  margin-top: 20px;
+  padding-right : 20px;
+  border-radius : 150px;
+  width : 100px;
+  height : 100px;
+}
+
+.trep{
+  margin-left : auto;
+  margin-right : auto;
+}
+
+
+.trech
+{
+  margin-top : 20px;
+  float : right;
+  width : 100px;
+  height : 100px;
+  padding-left : 20px;
+}
+.trer{
+text-align : right;
+}
+
+.finalpara{
+  padding-top : 50px;
+  padding-bottom : 50px;
+}
+
+p{
+  margin : 0;
+  font-size : 1rem;
+
+}
+
+.posled{
+  margin : 100px;
+}
+
+button{
+  margin-bottom: 50px;
+}
+
+footer{
+  padding-top : 40px;
+  padding-bottom : 40px;
+  background-color : #66bfbf;
+
+}
+
+a{
+  font-family : 'Monofett', cursive;
+  color : red;
+  //color : #11999e;
+//  font-family : sans-serif;
+  padding : 20px;
+  margin : 50px;
+}
+
+.laste{
+  padding : 20px;
+}
